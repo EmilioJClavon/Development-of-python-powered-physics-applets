@@ -1,2 +1,2 @@
-#Free fall simulation
-##Physical model
+Free fall simulation
+Physical model
